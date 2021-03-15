@@ -1,0 +1,21 @@
+Latitude (decimal degrees):	52.516
+Longitude (decimal degrees):	13.377
+Radiation database:	PVGIS-SARAH
+
+year		month		H(h)_m
+2016		Jan		16.03
+2016		Feb		37.93
+2016		Mar		64.28
+2016		Apr		120.44
+2016		May		182.66
+2016		Jun		173.66
+2016		Jul		151.2
+2016		Aug		142.08
+2016		Sep		117.23
+2016		Oct		40.18
+2016		Nov		25.73
+2016		Dec		15.45
+
+H(h)_m: Irradiation on horizontal plane (kWh/m2/mo)
+
+PVGIS (c) European Communities, 2001-2021
